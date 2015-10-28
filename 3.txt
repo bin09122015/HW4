@@ -1518,7 +1518,7 @@ with soldiers marching
   ENOBARBUS. I shall take it, sir. We have us'd our throats in Egypt.  
   MENAS. Come, let's away.                                Exeunt
 
-ACT_2|SC_7
+act_2|SC_7
                            SCENE VII.
              On board POMPEY'S galley, off Misenum
 
@@ -1693,7 +1693,7 @@ ACT_2|SC_7
                                   [Sound a flourish, with drums]
   ENOBARBUS. Hoo! says 'a. There's my cap.
   MENAS. Hoo! Noble Captain, come.                        Exeunt
-ACT_3|SC_1
+act_3|SC_1
                      ACT III. SCENE I.
                      A plain in Syria
 
@@ -1744,7 +1744,7 @@ ACT_3|SC_1
     We shall appear before him.- On, there; pass along.
                                                           Exeunt
 
-ACT_3|SC_2
+act_3|SC_2
                             SCENE II. Rome. CAESAR'S house
 
         Enter AGRIPPA at one door, ENOBARBUS at another
@@ -1835,7 +1835,7 @@ ACT_3|SC_2
   CAESAR. Farewell, farewell!                   [Kisses OCTAVIA]
   ANTONY. Farewell!                       Trumpets sound. Exeunt
 
-ACT_3|SC_3
+act_3|SC_3
                           SCENE III.
               Alexandria. CLEOPATRA'S palace
 
@@ -1911,7 +1911,7 @@ ACT_3|SC_3
     Where I will write. All may be well enough.
   CHARMIAN. I warrant you, madam.                         Exeunt
 
-ACT_3|SC_4
+act_3|SC_4
                           SCENE IV.
                   Athens. ANTONY'S house
 
@@ -1959,7 +1959,7 @@ ACT_3|SC_4
     Choose your own company, and command what cost
     Your heart has mind to.                               Exeunt
 
-ACT_3|SC_5
+act_3|SC_5
                            SCENE V.
                    Athens. ANTONY'S house
 
@@ -1990,7 +1990,7 @@ ACT_3|SC_5
     But let it be. Bring me to Antony.
   EROS. Come, sir.                                        Exeunt
 
-ACT_3|SC_6
+act_3|SC_6
                           SCENE VI.
                    Rome. CAESAR'S house
 
@@ -2112,7 +2112,7 @@ ACT_3|SC_6
   CAESAR. Most certain. Sister, welcome. Pray you
     Be ever known to patience. My dear'st sister!         Exeunt
 
-ACT_3|SC_7
+act_3|SC_7
                           SCENE VII.
                   ANTONY'S camp near Actium
 
@@ -2232,7 +2232,7 @@ ACT_3|SC_7
   CANIDIUS. With news the time's with labour and throes forth
     Each minute some.                                     Exeunt
 
-ACT_3|SC_8
+act_3|SC_8
                           SCENE VIII.
                       A plain near Actium
 
@@ -2245,7 +2245,7 @@ ACT_3|SC_8
     The prescript of this scroll. Our fortune lies
     Upon this jump.                                       Exeunt
 
-ACT_3|SC_9
+act_3|SC_9
                            SCENE IX.
                   Another part of the plain
 
@@ -2256,7 +2256,7 @@ ACT_3|SC_9
     We may the number of the ships behold,
     And so proceed accordingly.                           Exeunt
 
-ACT_3|SC_10
+act_3|SC_10
                            SCENE X.
                  Another part of the plain
 
@@ -2319,7 +2319,7 @@ ACT_3|SC_10
     The wounded chance of Antony, though my reason
     Sits in the wind against me.                          Exeunt
 
-ACT_3|SC_11
+act_3|SC_11
                          SCENE XI.
               Alexandria. CLEOPATRA'S palace
 
@@ -2412,7 +2412,7 @@ ACT_3|SC_11
     Within there, and our viands! Fortune knows
     We scorn her most when most she offers blows.         Exeunt
 
-ACT_3|SC_12
+act_3|SC_12
                          SCENE XII.
                    CAESAR'S camp in Egypt
 
@@ -2465,7 +2465,7 @@ ACT_3|SC_12
     In every power that moves.
   THYREUS. Caesar, I shall.                               Exeunt
 
-ACT_3|SC_13
+act_3|SC_13
                            SCENE XIII.
                Alexandria. CLEOPATRA'S palace
 
@@ -2727,7 +2727,7 @@ ACT_3|SC_13
     It eats the sword it fights with. I will seek
     Some way to leave him.                                  Exit
 
-ACT_4|SC_1
+act_4|SC_1
                       ACT IV. SCENE I.
               CAESAR'S camp before Alexandria
 
@@ -2753,7 +2753,7 @@ ACT_4|SC_1
     And feast the army; we have store to do't,
     And they have earn'd the waste. Poor Antony!          Exeunt
 
-ACT_4|SC_2
+act_4|SC_2
                           SCENE II.
                Alexandria. CLEOPATRA's palace
 
@@ -2821,7 +2821,7 @@ ACT_4|SC_2
     Than death and honour. Let's to supper, come,
     And drown consideration.                              Exeunt
 
-ACT_4|SC_3
+act_4|SC_3
                           SCENE III.
              Alexandria. Before CLEOPATRA's palace
 
@@ -2866,7 +2866,7 @@ ACT_4|SC_3
     Let's see how it will give off.  
   SOLDIERS. Content. 'Tis strange.                        Exeunt
 
-ACT_4|SC_4
+act_4|SC_4
                            SCENE IV.
                Alexandria. CLEOPATRA's palace
 
@@ -2933,7 +2933,7 @@ ACT_4|SC_4
     Determine this great war in single fight!
     Then, Antony- but now. Well, on.                      Exeunt
 
-ACT_4|SC_5
+act_4|SC_5
                           SCENE V.
                   Alexandria. ANTONY'S camp
 
@@ -2966,7 +2966,7 @@ ACT_4|SC_5
     To change a master. O, my fortunes have
     Corrupted honest men! Dispatch. Enobarbus!            Exeunt
 
-ACT_4|SC_6
+act_4|SC_6
                          SCENE VI.
                  Alexandria. CAESAR'S camp
 
@@ -3023,7 +3023,7 @@ ACT_4|SC_6
     Some ditch wherein to die; the foul'st best fits
     My latter part of life.                                 Exit
 
-ACT_4|SC_7
+act_4|SC_7
                           SCENE VII.
              Field of battle between the camps
 
@@ -3058,7 +3058,7 @@ ACT_4|SC_7
     For thy good valour. Come thee on.
     SCARUS. I'll halt after.                              Exeunt
 
-ACT_4|SC_8
+act_4|SC_8
                          SCENE VIII.
                Under the walls of Alexandria
 
@@ -3112,7 +3112,7 @@ ACT_4|SC_8
     That heaven and earth may strike their sounds together
     Applauding our approach.                              Exeunt
 
-ACT_4|SC_9
+act_4|SC_9
                          SCENE IX.
                       CAESAR'S camp
 
@@ -3163,7 +3163,7 @@ ACT_4|SC_9
   SECOND WATCH. Come on, then;
     He may recover yet.                     Exeunt with the body
 
-ACT_4|SC_10
+act_4|SC_10
                           SCENE X.
                     Between the two camps
 
@@ -3180,7 +3180,7 @@ ACT_4|SC_10
     Where their appointment we may best discover
     And look on their endeavour.                          Exeunt
 
-ACT_4|SC_11
+act_4|SC_11
                          SCENE XI.
                     Between the camps
 
@@ -3191,7 +3191,7 @@ ACT_4|SC_11
     Is forth to man his galleys. To the vales,
     And hold our best advantage.                          Exeunt
 
-ACT_4|SC_12
+act_4|SC_12
                          SCENE XII.
                   A hill near Alexandria
 
@@ -3258,7 +3258,7 @@ ACT_4|SC_12
     To the young Roman boy she hath sold me, and I fall
     Under this plot. She dies for't. Eros, ho!              Exit
 
-ACT_4|SC_13
+act_4|SC_13
                           SCENE XIII.
                Alexandria. CLEOPATRA's palace
 
@@ -3278,7 +3278,7 @@ ACT_4|SC_13
     And bring me how he takes my death. To th' monument!
                                                           Exeunt
 
-ACT_4|SC_14
+act_4|SC_14
                           SCENE XIV.
                      CLEOPATRA'S palace
 
@@ -3468,7 +3468,7 @@ ACT_4|SC_14
     Seeming to bear it lightly. Take me up.
     I have led you oft; carry me now, good friends,
     And have my thanks for all.           Exeunt, hearing ANTONY
-ACT_4|SC_15
+act_4|SC_15
                          SCENE XV.
                    Alexandria. A monument
 
@@ -3588,7 +3588,7 @@ ACT_4|SC_15
     But resolution and the briefest end.
                    Exeunt; those above hearing off ANTONY'S body
 
-ACT_5|SC_1
+act_5|SC_1
                        ACT V. SCENE I.
                   Alexandria. CAESAR'S camp
 
@@ -3692,7 +3692,7 @@ ACT_5|SC_1
     In all my writings. Go with me, and see
     What I can show in this.                              Exeunt
 
-ACT_5|SC_2
+act_5|SC_2
                          SCENE II.
                 Alexandria. The monument
 
